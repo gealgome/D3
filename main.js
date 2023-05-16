@@ -37,7 +37,7 @@ MainMenu.prototype = {
 		console.log('MainMenu: create');
 
 		// main menu text and instructions
-		var titleText = game.add.text(16, 100, "TERRY'S AMAZING GAME", {fontSize: '32px', file: '#000'});
+		var titleText = game.add.text(16, 100, "George's AMAZING GAME", {fontSize: '32px', file: '#000'});
 		var subtitleText = game.add.text(16, 150, "Press SPACE to start!", {fontSize: '32px', file: '#000'});
 		titleText.addColor("#ff0000", 0); //red
 		subtitleText.addColor("#ff0000", 0); //red
