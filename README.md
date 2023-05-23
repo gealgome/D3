@@ -3,7 +3,7 @@
 
 A small game made by George Gomez for D3 at CMPM 120 UCSC:
 
-Play the [live game]( )
+Play the live game! [http://127.0.0.1:5500/phaser/phaser/projectName/index.html]( )
 
 ## Building the game in development:
 1. Level 1 is trying to get all the stars
